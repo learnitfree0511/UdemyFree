@@ -3,3 +3,5 @@ beautifulsoup4
 pandas
 fake-useragent
 flask
+airtable-python-wrapper
+
