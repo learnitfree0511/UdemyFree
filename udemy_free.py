@@ -25,8 +25,8 @@ logger.addHandler(console_handler)
 # KHÔNG chia sẻ file này công khai khi chứa khóa API thực tế.
 # Cân nhắc sử dụng biến môi trường cho các thông tin nhạy cảm.
 # ----------------------------------------------------------
-AIRTABLE_API_KEY = "patGxDaOzzFPqjQq6.6169f43944d6629aa1266949ea269666fdc0fc6d7be6bf345df3099a945056b6"
-AIRTABLE_BASE_ID = "apptYwt65GkOcmP8X"
+AIRTABLE_API_KEY = "patCXpDL9ZpgG2d2Z.594e15991dba9243aba770cc791014742096f9a82265e61bd92e51ea877e666c"
+AIRTABLE_BASE_ID = "app0KTBkUEfETjVUk"
 AIRTABLE_TABLE_NAME = "khoa_hoc_udemy_free" # For courses
 AIRTABLE_LOG_TABLE_NAME = "Log_Crawler"     # For logs
 # ----------------------------------------------------------
